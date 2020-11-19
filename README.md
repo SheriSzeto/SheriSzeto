@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🖥 CC宝贝is coming
+- 🖥 我是CC(中文名叫欣欣，因而得此名😁😃)，英文名sheri，也可以叫我雪梨
 
 - 👩‍💻 前端码农，喜欢各种美食🍜 🍣 🍮 ，喜欢旅游，喜欢烘焙！！！
 
 - 有一只小可爱🐈🐈，名字叫炒蛋🍳，现在2岁啦！
 
-### site
+### focus my site
 
 [![](https://cdn.jsdelivr.net/gh//SheriSzeto/image@main/engineer.png)](https://sheriszeto.github.io)
 
-#### skills
+#### about my skills
 ![html5](https://cdn.jsdelivr.net/gh//SheriSzeto/image@main/html.png)
 ![css3](https://cdn.jsdelivr.net/gh//SheriSzeto/image@main/css3.png)
 ![js](https://cdn.jsdelivr.net/gh//SheriSzeto/image@main/javascript.png)
@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 ![wechat](https://cdn.jsdelivr.net/gh//SheriSzeto/image@main/xiaochengxu.png)
 ![node](https://cdn.jsdelivr.net/gh//SheriSzeto/image@main/Nodejs.png)
 
-### contract
+### contract me 👇👇👇
 [![github](https://cdn.jsdelivr.net/gh//SheriSzeto/image@main/github.png)](https://github.com/sheriszeto)
 [![mail](https://cdn.jsdelivr.net/gh//SheriSzeto/image@main/icon-test.png)](mailto:sheri_situ@163.com)
