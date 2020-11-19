@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 - 👩‍💻 前端码农，喜欢各种美食🍜 🍣 🍮 ，喜欢旅游，喜欢烘焙！！！
 
+- 有一只小可爱🐈🐈，名字叫炒蛋🍳，现在2岁啦！
+
 ### site
 
 [![](https://cdn.jsdelivr.net/gh//SheriSzeto/image@main/engineer.png)](https://sheriszeto.github.io)
